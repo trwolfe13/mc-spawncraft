@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:mob_spawner"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:nether_star"
+      },
+      "#": {
+        "item": "minecraft:iron_bars"
+      }
+    },
+    "result": {
+      "item": "minecraft:mob_spawner"
+    }
+  }
+}
