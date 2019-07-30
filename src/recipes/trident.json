@@ -2,26 +2,26 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:mob_spawner"
+      "identifier": "trident"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "###",
-      "# #",
-      "#T#"
+      "PPP",
+      " I ",
+      " I "
     ],
     "key": {
-      "#": {
-        "item": "minecraft:iron_bars"
+      "P": {
+        "item": "minecraft:prismarine_shard"
       },
-      "T": {
-        "item": "totem"
+      "I": {
+        "item": "minecraft:iron_ingot"
       }
     },
     "result": {
-      "item": "minecraft:mob_spawner"
+      "item": "trident"
     }
   }
 }

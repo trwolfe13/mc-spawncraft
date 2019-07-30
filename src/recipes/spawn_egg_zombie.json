@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:spawn_egg",
+      "data": 32
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " X ",
+      "XEX",
+      " X "
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:egg"
+      },
+      "X": {
+        "item": "minecraft:rotten_flesh"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+      "data": 32
+    }
+  }
+}
