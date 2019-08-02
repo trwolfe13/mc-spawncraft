@@ -2,15 +2,15 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:spawn_egg_creeper"
+      "identifier": "minecraft:spawn_egg_witch"
     },
     "tags": [
       "crafting_table"
     ],
     "pattern": [
-      "XXX",
+      "YXY",
       "XEX",
-      "XXX"
+      "YXY"
     ],
     "key": {
       "E": {
@@ -18,11 +18,14 @@
       },
       "X": {
         "item": "minecraft:gunpowder"
+      },
+      "Y": {
+        "item": "minecraft:redstone"
       }
     },
     "result": {
       "item": "minecraft:spawn_egg",
-      "data": 33
+      "data": 45
     }
   }
 }

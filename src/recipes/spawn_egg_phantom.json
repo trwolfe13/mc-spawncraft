@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:spawn_egg_creeper"
+      "identifier": "minecraft:spawn_egg_phantom"
     },
     "tags": [
       "crafting_table"
@@ -17,12 +17,12 @@
         "item": "minecraft:egg"
       },
       "X": {
-        "item": "minecraft:gunpowder"
+        "item": "minecraft:phantom_membrane"
       }
     },
     "result": {
       "item": "minecraft:spawn_egg",
-      "data": 33
+      "data": 58
     }
   }
 }
