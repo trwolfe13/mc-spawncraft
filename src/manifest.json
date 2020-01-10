@@ -1,10 +1,11 @@
 {
-  "format_version": 1,
+  "format_version": 2,
   "header": {
     "description": "A behavior pack that enables crafting of spawn eggs and mob spawners",
     "name": "SpawnCraft",
     "uuid": "e7e112ad-7cbb-4cc1-9657-dbeab5d3e1ca",
-    "version": [1, 0, 0]
+    "version": [1, 0, 0],
+    "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
     {
@@ -13,6 +14,5 @@
       "uuid": "1053ff23-eec7-49f9-b730-a2a3ab834723",
       "version": [1, 0, 0]
     }
-  ],
-  "dependencies": []
+  ]
 }

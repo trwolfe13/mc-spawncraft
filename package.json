@@ -1,0 +1,23 @@
+{
+  "name": "mc-spawncraft",
+  "version": "1.0.0",
+  "description": "A Minecraft Bedrock add-on that enables crafting of spawn eggs and mob spawners.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trwolfe13/mc-spawncraft.git"
+  },
+  "author": "Thomas R. Wolfe (trwolfe13@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trwolfe13/mc-spawncraft/issues"
+  },
+  "homepage": "https://github.com/trwolfe13/mc-spawncraft#readme",
+  "devDependencies": {
+    "archiver": "^3.1.1",
+    "rimraf": "^3.0.0"
+  }
+}
